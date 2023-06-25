@@ -16,7 +16,7 @@ ProtectGui(ScreenGui);
 
 ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Global;
 ScreenGui.Parent = CoreGui;
-ScreenGui.Name = "Crypted";
+ScreenGui.Name = "CryptedCheatToggle";
 
 local Toggles = {};
 local Options = {};
